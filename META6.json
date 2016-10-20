@@ -4,14 +4,14 @@
   ],
   "build-depends" : [ ],
   "depends" : [ ],
-  "description" : "blah blah blah",
+  "description" : "traces some routes, works ok for RIPE, not so well for others",
   "name" : "AS::Tracerouter",
   "perl" : "6.c",
   "provides" : {
     "AS::Tracerouter" : "lib/AS/Tracerouter.pm6"
   },
   "resources" : [ ],
-  "source-url" : "",
+  "source-url" : "git://github.com/hipek8/AS-Tracerouter.git",
   "test-depends" : [ ],
   "version" : "*"
 }

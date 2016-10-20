@@ -1,17 +1,19 @@
+[![Build Status](https://travis-ci.org/hipek8/AS-Tracerouter.svg?branch=master)](https://travis-ci.org/hipek8/AS-Tracerouter)
+
 NAME
 ====
 
-AS::Tracerouter - blah blah blah
+AS::Tracerouter - traces some routes, works ok for RIPE, not so well for others
 
 SYNOPSIS
 ========
 
-    use AS::Tracerouter;
+    deep-trace github.com
 
 DESCRIPTION
 ===========
 
-AS::Tracerouter is ...
+AS::Tracerouter is …
 
 AUTHOR
 ======

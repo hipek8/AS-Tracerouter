@@ -4,7 +4,7 @@
   ],
   "build-depends" : [ ],
   "depends" : [ ],
-  "description" : "traces some routes, works ok for RIPE, not so well for others",
+  "description" : "check which Autonomous System routers on path are from. Works ok for RIPE entries, not so well for others.",
   "name" : "AS::Tracerouter",
   "perl" : "6.c",
   "provides" : {
